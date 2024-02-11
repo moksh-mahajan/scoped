@@ -1,8 +1,4 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
-library;
+/// A simple dependency injection library built on Zones
+library scoped;
 
-export 'src/scoped_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/scoped.dart';
